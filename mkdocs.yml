@@ -14,6 +14,10 @@ nav:
 
 theme:
   name: 'material'
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
   # Mudar o tema da pagina
   palette:
     - scheme: default
@@ -83,3 +87,16 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+# Plugins
+plugins:
+  - git-authors
+  - git-committers:
+      repository: RogerioLS/doc-facil
+      branch: main 
+  - git-revision-date-localized:
+      enabled: true
+      type: date
+      exclude: []
+      fallback_to_build_date: false
+      enable_creation_date: false   
