@@ -88,10 +88,31 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+
+# Google Analytics
+extra:
+  analytics:
+    provider: google
+    property: G-2DFLVCVNXJ
+    feedback:
+      title: Esta página foi útil?
+      ratings:
+        - icon: material/heart
+          name: Esta página foi útil
+          data: 1
+          note: >-
+            Obrigado pelo seu feedback!
+        - icon: material/heart-broken
+          name: Esta página pode ser melhorada
+          data: 0
+          note: >-
+            Obrigado pelo seu feedback! Ajude-nos a melhorar esta página
+
+
 # Plugins
 plugins:
-  - git-authors
   - git-committers:
+      enabled: !ENV [CI, true]
       repository: RogerioLS/doc-facil
       branch: main 
   - git-revision-date-localized:
@@ -99,4 +120,4 @@ plugins:
       type: date
       exclude: []
       fallback_to_build_date: false
-      enable_creation_date: false   
+      enable_creation_date: true  
