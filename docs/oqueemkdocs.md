@@ -1,0 +1,3 @@
+# O que é MkDocs?
+
+O MkDocs é um gerador de site estático para documentação simples, rápido e bonito para seu projeto. Ele é feito em Python, então já entendemos a origem da sua simplicidade, mas não confunda simplicidade com falta de recursos, porque o MkDocs tem muitos recursos que você pode usar com poucas linhas de código. A documentação é escrita em Markdown, que é uma forma de escrever HTML bem mais simples e bonita e a configuração do MkDocs é feita em apenas um arquivo YAML.
