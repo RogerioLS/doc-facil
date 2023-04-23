@@ -4,16 +4,23 @@ site_name: Doc. Fácil
 repo_name: RogerioLS/doc-facil
 repo_url: https://github.com/RogerioLS/doc-facil
 
+
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
 
 nav:
-  - O que é MkDocs: index.md
-  - Instalação: install.md
-  - Licença: licenca.md
+  - Boas-Vindas: index.md
+  - Material:
+    - O que é MkDocs: oqueemkdocs.md
+    - Instalação: install.md
+    - Licença: licenca.md
 
 theme:
   name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes 
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 
@@ -33,7 +40,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-
 # Customization
 extra:
   analytics:
@@ -51,7 +57,8 @@ extra:
           name: Esta página pode ser melhorada
           data: 0
           note: >-
-            Obrigado pelo seu feedback! Ajude-nos a melhorar esta página
+            Obrigado pelo seu feedback! Ajude-nos a melhorar esta página usando nosso 
+            . <a href="https://forms.gle/gxQBCWfweZpr19dbA" target="_blank" rel="noopener">formulário de feedback</a>.
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/RogerioLS
@@ -105,12 +112,12 @@ markdown_extensions:
 # Plugins
 plugins:
   - git-committers:
-      enabled: !ENV [CI, true]
       repository: RogerioLS/doc-facil
       branch: main 
+      enabled: true
   - git-revision-date-localized:
       enabled: true
       type: date
       exclude: []
       fallback_to_build_date: false
-      enable_creation_date: true  
+      enable_creation_date: true
