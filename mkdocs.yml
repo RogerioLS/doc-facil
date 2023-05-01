@@ -9,11 +9,11 @@ repo_url: https://github.com/RogerioLS/doc-facil
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
 
 nav:
-  - Boas Vindas: index.md
-  - Material:
-    - O que é MkDocs: oqueemkdocs.md
-    - Instalação: install.md
-    - Licença: licenca.md
+  - 🖖 I'm Rogério Lopes: index.md
+  - 📚 Guia de instalação:
+    - 📍 O que é MkDocs: oqueemkdocs.md
+    - 💱 Instalação: install.md
+    - ✅ Licença: licenca.md
 
 theme:
   name: 'material'
