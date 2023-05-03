@@ -17,6 +17,8 @@ nav:
 
 theme:
   name: 'material'
+  favicon: assets/logo/foto_little.png 
+  logo: assets/logo/foto_little.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
