@@ -30,18 +30,17 @@ Dentro das minhas habilidades, possuo conhecimento em:
 
 
 <a href="https://github.com/RogerioLS">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/></a>
+
 
 - 📫 Onde você pode me encontrar:
-<br>
  <p align="center">
    <a href=<p align="center">
    <a href= "https://linkedin.com//in/rogerio-lopes-57627615b/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/linkedin.png"></code></a> 
    <a href= "https://www.instagram.com/rogerinholopes/?hl=pt-br" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/instagram.png"></code></a>
    <a href= "mailto:rogerio_288@hotmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/email.png"></code></a>
    <a href = "mailto:rogerio.mac.idb@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/gmail.png"></code></a>
