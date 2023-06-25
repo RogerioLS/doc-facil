@@ -13,6 +13,7 @@ nav:
   - 📚 Guia de instalação:
     - 📍 O que é MkDocs: oqueemkdocs.md
     - 💱 Instalação: install.md
+    - 🔨 Iniciando servidor: inicializandoserve.md
     - ✅ Licença: licenca.md
 
 theme:
