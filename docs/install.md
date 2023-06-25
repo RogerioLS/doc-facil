@@ -89,4 +89,4 @@ Dentro desse diretório você vai ter uma estrutura igual a essa:
             |--mkdocs.yml
 
 
-Agora vamos entender o que são esses arquivos e pasta. O MkDocs tem apenas um arquivo de configuração, como eu tinha falando acima, esse arquivo é o mkdocs.yml e uma pasta chamada docs que conterá os nossos arquivos da documentação escritos em Markdown. No momento, a pasta docs contém apenas uma única página de documentação, chamada index.md.
+Agora vamos entender o que são esses arquivos e pasta. O MkDocs tem apenas um arquivo de configuração, como eu tinha falando acima, esse arquivo é o mkdocs.yml e uma pasta chamada docs que conterá os nossos arquivos da documentação escritos em Markdown. No momento, a pasta docs contém apenas uma única página de documentação, chamada index.md onde iremos criar nosso exemplo.
