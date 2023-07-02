@@ -22,3 +22,19 @@ Por padrão dentro do arquivo *mkdocs.yml* não vem na estrutura que precisamos 
 
             theme:
               name: 'material'
+
+## **Inicializando o servidor**
+
+Vamos inicializar o servidor do MkDocs para verificar como está a nossa documentação teste que foi criada até agora.
+
+Lembre-se de estar no mesmo diretório que o arquivo de configuração mkdocs.yml no seu prompt ananconda, digite o comando a seguir.
+
+!!! tip "Iniciando o serve"
+	=== "serve"
+			mkdocs serve
+
+Abra o seu navegador e digite a seguinte URL *http://localhost:8000/*, encontrará uma página igual ou semelhante a essa:
+
+<p align='center'>
+<img src='https://github.com/RogerioLS/doc-facil/blob/main/docs/imagens/iniciando-serve.png?raw=true'>
+</p>
